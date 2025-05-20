@@ -6,11 +6,9 @@ Computer Science student at VIT Vellore. 🧠👩‍💻
 <br>🎨 I also have experience in UI/UX design and frontend development — turning ideas into sleek, user-friendly interfaces.</br>
 <br>🔍 Always learning, always experimenting.
 Let's connect and build something awesome!</br>
-
 <br>I'm actively looking to collaborate on innovative projects that combine the power of full-stack development with machine learning.
 With a background in UI/UX design, frontend development, and a strong interest in CNNs, NLP, and cybersecurity,
 I'm eager to contribute to end-to-end solutions — from intuitive user interfaces to intelligent backend systems.</br>
-
 <br>If you're working on a project or have an idea in this space, feel free to connect.
 Let's build something impactful together!</br>
 
