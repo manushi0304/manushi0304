@@ -1,4 +1,4 @@
-<h3>#Hi, I am Manushi Bombaywala💕</h3>
+<h3>Hi, I am Manushi Bombaywala💕</h3>
 
 Computer Science student at VIT Vellore. 🧠👩‍💻
 <br>A Machine Learning & Cybersecurity enthusiast with a passion for building intelligent and secure systems.</br>
