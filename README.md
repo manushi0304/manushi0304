@@ -1,4 +1,24 @@
-<h3>Hi, I am Manushi Bombaywala💕</h3>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc" align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F78E0A&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Manushi+Bombaywala" alt="Typing SVG" /></a>
+</div>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
 
 Computer Science student at VIT Vellore. 🧠👩‍💻
 <br>A Machine Learning & Cybersecurity enthusiast with a passion for building intelligent and secure systems.</br>
