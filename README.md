@@ -1,96 +1,105 @@
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
+<!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F78E0A&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manushi+Bombaywala;Computer+Science+Student+%40+VIT+Vellore;ML+%26+Cybersecurity+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F78E0A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manushi+Bombaywala;Computer+Science+Student+%40+VIT+Vellore;ML+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
-<!--- snake -->
+<!--- Snake -->
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" />
 </div>
 
-<!--h2 without bottom border-->
+<!-- Quote -->
 <div align="center">
   <h2>Confusion is part of Programming 💻🧩</h2>
 </div>
 
 <div align="center">
 
-Computer Science student at VIT Vellore. 🧠👩‍💻  
-A Machine Learning & Cybersecurity enthusiast with a passion for building intelligent and secure systems.  
-
-💡 Currently diving deep into Convolutional Neural Networks (CNNs) and Natural Language Processing (NLP).  
-🎨 Experienced in UI/UX design and frontend development — turning ideas into sleek, user-friendly interfaces.  
-🔍 Always learning, always experimenting.  
-
-Let's connect and build something awesome! 🚀  
-
-I'm actively looking to collaborate on innovative projects combining full-stack development, machine learning, UI/UX, CNNs, NLP, and cybersecurity.  
-If you have an idea or project in this space, feel free to reach out!  
+- 🔭 I’m currently working on **Machine Learning, UI/UX Design, Frontend Development**  
+- 🌱 I’m currently learning **CNNs, NLP, Cybersecurity**  
+- 📫 Feel free to reach me at **manushibombaywala0304@gmail.com**
 
 </div>
 
-## 🌐 Socials
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/manushi._03/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manushi-bombaywala/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@manushibombaywala0304) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manushibombaywala0304@gmail.com)
-
-</div>
-
-# 💻 Tech Stack
-<div align="center">
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-</div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/manushicode?ext=heatmap" alt="LeetCode Heatmap" />
-</div>
-
-## 📊 GitHub Stats
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=manushi0304&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manushi0304&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manushi0304&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
-</div>
 <br>
 
-### 👀 Profile Views
+<!--- OSS Insight Dashboard Stats -->
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=manushi0304&icon=0&color=0" alt="Profile Views" />
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154885058" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154885058&image_size=auto&color_scheme=dark">
+      <img alt="GitHub Dashboard Stats" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154885058&image_size=auto&color_scheme=light">
+    </picture>
+  </a>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<!--- GitHub Trophies -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=manushi0304&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br>
+
+<!-- LeetCode Stats -->
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/manushicode?ext=heatmap&theme=dark" alt="LeetCode Stats" />
+</div>
+
+<br>
+
+<!-- Tech Stack -->
+<div align="center">
+  <h2>Technologies That I Know 👩🏻‍💻</h2>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,aws,nodejs,nextjs,react,figma,framer,js,py,tensorflow,sklearn,numpy,pandas,matplotlib,opencv,vscode&perline=10" />
+  </a>
+</div>
+
+<br>
+
+<!-- Connect with me -->
+<div align="center">
+  <h2>Connect With Me 🤝</h2>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/manushi-bombaywala/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/manushi._03/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@manushibombaywala0304" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb9b0a541.png" alt="Medium" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:manushibombaywala0304@gmail.com">
+    <img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Email" height="50" width="50" />
+  </a>
+</div>
+
+<br>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=manushi0304&label=Profile%20Views&color=11&icon=3&pretty=true" />
+</div>
+
+<br>
+
+<!--horizontal divider(gradient)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
