@@ -2,77 +2,102 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F78E0A&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Manushi+Bombaywala" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F78E0A&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manushi+Bombaywala;Computer+Science+Student+%40+VIT+Vellore;ML+%26+Cybersecurity+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" />
 </div>
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
+<div align="center">
+  <h2>Confusion is part of Programming 💻🧩</h2>
 </div>
 
+<div align="center">
 
-Computer Science student at VIT Vellore. 🧠👩‍💻
-<br>A Machine Learning & Cybersecurity enthusiast with a passion for building intelligent and secure systems.</br>
-<br>💡 Currently diving deep into Convolutional Neural Networks (CNNs) and Natural Language Processing (NLP).</br>
-<br>🎨 I also have experience in UI/UX design and frontend development — turning ideas into sleek, user-friendly interfaces.</br>
-<br>🔍 Always learning, always experimenting.
-Let's connect and build something awesome!</br>
-<br>I'm actively looking to collaborate on innovative projects that combine the power of full-stack development with machine learning.
-With a background in UI/UX design, frontend development, and a strong interest in CNNs, NLP, and cybersecurity,
-I'm eager to contribute to end-to-end solutions — from intuitive user interfaces to intelligent backend systems.</br>
-<br>If you're working on a project or have an idea in this space, feel free to connect.
-Let's build something impactful together!</br>
+Computer Science student at VIT Vellore. 🧠👩‍💻  
+A Machine Learning & Cybersecurity enthusiast with a passion for building intelligent and secure systems.  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/manushi._03/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manushi-bombaywala/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@manushibombaywala0304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manushibombaywala0304@gmail.com) 
+💡 Currently diving deep into Convolutional Neural Networks (CNNs) and Natural Language Processing (NLP).  
+🎨 Experienced in UI/UX design and frontend development — turning ideas into sleek, user-friendly interfaces.  
+🔍 Always learning, always experimenting.  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+Let's connect and build something awesome! 🚀  
 
-![](https://leetcard.jacoblin.cool/manushicode?ext=heatmap)
+I'm actively looking to collaborate on innovative projects combining full-stack development, machine learning, UI/UX, CNNs, NLP, and cybersecurity.  
+If you have an idea or project in this space, feel free to reach out!  
+
+</div>
+
+## 🌐 Socials
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/manushi._03/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manushi-bombaywala/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@manushibombaywala0304) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manushibombaywala0304@gmail.com)
+
+</div>
+
+# 💻 Tech Stack
+<div align="center">
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/manushicode?ext=heatmap" alt="LeetCode Heatmap" />
+</div>
 
 ## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=manushi0304&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
-    height="170" 
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=manushi0304&theme=dark&hide_border=true" 
-    height="170" 
-    alt="GitHub Streak"
-  />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=manushi0304&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=manushi0304&theme=dark&hide_border=true" alt="GitHub Streak" />
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manushi0304&layout=compact&theme=dark&hide_border=true" 
-    height="170" 
-    alt="Top Languages"
-  />
-</p>
+</div>
 
----
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manushi0304&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manushi0304&theme=dark&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+<br>
 
 ### 👀 Profile Views
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img 
-      src="https://visitcount.itsvg.in/api?id=manushi0304&icon=0&color=0" 
-      alt="Profile Views"
-    />
-  </a>
-</p>
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=manushi0304&icon=0&color=0" alt="Profile Views" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
