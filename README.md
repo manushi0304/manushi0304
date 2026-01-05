@@ -78,8 +78,7 @@ If you have an idea or project in this space, feel free to reach out!
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=manushi0304&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=manushi0304&theme=dark&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manushi0304&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -87,12 +86,6 @@ If you have an idea or project in this space, feel free to reach out!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manushi0304&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 </div>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manushi0304&theme=dark&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
-
 <br>
 
 ### 👀 Profile Views
