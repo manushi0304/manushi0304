@@ -66,7 +66,7 @@ If you're working on a project or have an idea in this space, feel free to conne
 
 <div align="center">
   
-![](https://leetcard.jacoblin.cool/manushicode?ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/manushicode?theme=dark&font=Syne%20Mono&ext=heatmap)](https://leetcode.com/manushicode/)
 
 </div>
 
@@ -74,37 +74,42 @@ If you're working on a project or have an idea in this space, feel free to conne
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=manushi0304&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
-    height="170" 
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=manushi0304&theme=dark&hide_border=true" 
-    height="170" 
-    alt="GitHub Streak"
-  />
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manushi0304&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manushi0304&layout=compact&theme=dark&hide_border=true" 
-    height="170" 
-    alt="Top Languages"
-  />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manushi0304&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manushi0304&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=manushi0304&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👀 Profile Views
+
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img 
-      src="https://visitcount.itsvg.in/api?id=manushi0304&icon=0&color=0" 
-      alt="Profile Views"
-    />
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=manushi0304&icon=0&color=0" alt="Profile Views" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
