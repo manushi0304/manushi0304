@@ -19,12 +19,12 @@
 
 ---
 
-````✦ about me```
+✦ About Me
 
 - 🌱 diving deep into **CNNs** and **NLP**
 - 🎨 i turn ideas into sleek, user-friendly interfaces
 - 💻 building end-to-end systems — from design to deployment
-- 🤝 open to collaborating on ML + design projects
+- 🤝 open to collaborating on ML + full stack projects
 - ✨ always learning, always experimenting
 
 ---
@@ -79,6 +79,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f7a8c4&height=80&section=footer"/>
 
 </div>
-```
 
-Everything is in one clean block. The stats cards now use `manushi0304` (your actual username from the screenshot) with the `rose_pine` theme and pink accents to match the rest of the profile. Just paste this directly into your `README.md` and you're good to go! 🌸
