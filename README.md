@@ -21,7 +21,7 @@
 
 ✦ About Me
 
-- 🌱 diving deep into **CNNs** and **NLP**
+- 🌱 diving deep into **CNNs**, **NLP**, and **transformer architectures**
 - 🎨 i turn ideas into sleek, user-friendly interfaces
 - 💻 building end-to-end systems — from design to deployment
 - 🤝 open to collaborating on ML + full stack projects
@@ -41,18 +41,28 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ffd6e7?style=flat-square&logo=tensorflow&logoColor=c45e8a)
 ![Keras](https://img.shields.io/badge/Keras-ffd6e7?style=flat-square&logo=keras&logoColor=c45e8a)
+![PyTorch](https://img.shields.io/badge/PyTorch-ffd6e7?style=flat-square&logo=pytorch&logoColor=c45e8a)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ffd6e7?style=flat-square&logo=scikit-learn&logoColor=c45e8a)
 ![OpenCV](https://img.shields.io/badge/OpenCV-ffd6e7?style=flat-square&logo=opencv&logoColor=c45e8a)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-ffd6e7?style=flat-square&logo=huggingface&logoColor=c45e8a)
+![LangChain](https://img.shields.io/badge/LangChain-ffd6e7?style=flat-square&logo=chainlink&logoColor=c45e8a)
+![NLTK](https://img.shields.io/badge/NLTK-ffd6e7?style=flat-square&logo=python&logoColor=c45e8a)
 ![NumPy](https://img.shields.io/badge/NumPy-ffd6e7?style=flat-square&logo=numpy&logoColor=c45e8a)
 ![Pandas](https://img.shields.io/badge/Pandas-ffd6e7?style=flat-square&logo=pandas&logoColor=c45e8a)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffd6e7?style=flat-square&logo=plotly&logoColor=c45e8a)
+![SciPy](https://img.shields.io/badge/SciPy-ffd6e7?style=flat-square&logo=scipy&logoColor=c45e8a)
 
-**full-stack**
+**full-stack & databases**
 
 ![React](https://img.shields.io/badge/React-ffd6e7?style=flat-square&logo=react&logoColor=c45e8a)
 ![Next.js](https://img.shields.io/badge/Next.js-ffd6e7?style=flat-square&logo=next.js&logoColor=c45e8a)
 ![Node.js](https://img.shields.io/badge/Node.js-ffd6e7?style=flat-square&logo=node.js&logoColor=c45e8a)
 ![HTML5](https://img.shields.io/badge/HTML5-ffd6e7?style=flat-square&logo=html5&logoColor=c45e8a)
 ![CSS3](https://img.shields.io/badge/CSS3-ffd6e7?style=flat-square&logo=css3&logoColor=c45e8a)
+![MySQL](https://img.shields.io/badge/MySQL-ffd6e7?style=flat-square&logo=mysql&logoColor=c45e8a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffd6e7?style=flat-square&logo=postgresql&logoColor=c45e8a)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffd6e7?style=flat-square&logo=mongodb&logoColor=c45e8a)
+![Firebase](https://img.shields.io/badge/Firebase-ffd6e7?style=flat-square&logo=firebase&logoColor=c45e8a)
 
 **design**
 
@@ -79,4 +89,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f7a8c4&height=80&section=footer"/>
 
 </div>
+```
 
+**What changed:** databases (MySQL, PostgreSQL, MongoDB, Firebase) are merged into the full-stack section as **"full-stack & databases"**, and the new ML tools (PyTorch, HuggingFace, LangChain, NLTK, Matplotlib, SciPy) are folded into the existing **ml / ai** section. No new separate sections added!
