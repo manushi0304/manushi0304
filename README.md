@@ -1,76 +1,84 @@
-<!-- Header -->
 <div align="center">
 
-✦ welcome to my corner of the internet ✦
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f7a8c4&height=120&section=header"/>
 
-# Hi, I'm Manushi 👩‍💻
+# hi, i'm manushi 🌸
 
-**CS @ VIT Vellore · Machine Learning · Full-Stack · UI/UX Design**
+*cs student · ml enthusiast · designer at heart*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manushi-bombaywala/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@manushibombaywala0304)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manushibombaywala0304@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/manushi._03/)
+**VIT Vellore**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-f7a8c4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manushi-bombaywala/)
+[![Medium](https://img.shields.io/badge/medium-f7a8c4?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manushibombaywala0304)
+[![Gmail](https://img.shields.io/badge/gmail-f7a8c4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manushibombaywala0304@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-f7a8c4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manushi._03/)
 
 </div>
 
 ---
 
-### 🔭 Currently Exploring
-- Convolutional Neural Networks (CNNs)
-- Natural Language Processing (NLP)
-- Building intelligent, research-driven ML systems
+````✦ about me```
 
-### 🎨 What I Do
-I design **intuitive interfaces** and build **intelligent, full-stack systems** — from Figma mockups to ML-powered backends. I'm actively looking to collaborate on projects that sit at the intersection of AI, great UX, and end-to-end development.
-
-If you have an idea in this space, let's talk!
+- 🌱 diving deep into **CNNs** and **NLP**
+- 🎨 i turn ideas into sleek, user-friendly interfaces
+- 💻 building end-to-end systems — from design to deployment
+- 🤝 open to collaborating on ML + design projects
+- ✨ always learning, always experimenting
 
 ---
 
-### 🛠 Tech Stack
+```✦ tech stack```
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+**languages**
 
-**ML / AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ffd6e7?style=flat-square&logo=python&logoColor=c45e8a)
+![C++](https://img.shields.io/badge/C++-ffd6e7?style=flat-square&logo=c%2B%2B&logoColor=c45e8a)
+![Java](https://img.shields.io/badge/Java-ffd6e7?style=flat-square&logo=openjdk&logoColor=c45e8a)
 
-**Full-Stack**
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**ml / ai**
 
-**Design**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ffd6e7?style=flat-square&logo=tensorflow&logoColor=c45e8a)
+![Keras](https://img.shields.io/badge/Keras-ffd6e7?style=flat-square&logo=keras&logoColor=c45e8a)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ffd6e7?style=flat-square&logo=scikit-learn&logoColor=c45e8a)
+![OpenCV](https://img.shields.io/badge/OpenCV-ffd6e7?style=flat-square&logo=opencv&logoColor=c45e8a)
+![NumPy](https://img.shields.io/badge/NumPy-ffd6e7?style=flat-square&logo=numpy&logoColor=c45e8a)
+![Pandas](https://img.shields.io/badge/Pandas-ffd6e7?style=flat-square&logo=pandas&logoColor=c45e8a)
 
-**Cloud**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+**full-stack**
 
----
+![React](https://img.shields.io/badge/React-ffd6e7?style=flat-square&logo=react&logoColor=c45e8a)
+![Next.js](https://img.shields.io/badge/Next.js-ffd6e7?style=flat-square&logo=next.js&logoColor=c45e8a)
+![Node.js](https://img.shields.io/badge/Node.js-ffd6e7?style=flat-square&logo=node.js&logoColor=c45e8a)
+![HTML5](https://img.shields.io/badge/HTML5-ffd6e7?style=flat-square&logo=html5&logoColor=c45e8a)
+![CSS3](https://img.shields.io/badge/CSS3-ffd6e7?style=flat-square&logo=css3&logoColor=c45e8a)
 
-<!-- GitHub Stats -->
-<div align="center">
+**design**
 
-![Manushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manushi-bombaywala&show_icons=true&theme=rose_pine&hide_border=true)
+![Figma](https://img.shields.io/badge/Figma-ffd6e7?style=flat-square&logo=figma&logoColor=c45e8a)
+![Canva](https://img.shields.io/badge/Canva-ffd6e7?style=flat-square&logo=canva&logoColor=c45e8a)
+![Framer](https://img.shields.io/badge/Framer-ffd6e7?style=flat-square&logo=framer&logoColor=c45e8a)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manushi-bombaywala&layout=compact&theme=rose_pine&hide_border=true)
+**cloud**
 
-</div>
+![AWS](https://img.shields.io/badge/AWS-ffd6e7?style=flat-square&logo=amazon-aws&logoColor=c45e8a)
 
 ---
 
 <div align="center">
-  <i>"Confusion is part of programming — and so is building something beautiful from it."</i>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manushi0304&show_icons=true&theme=rose_pine&hide_border=true&icon_color=f7a8c4&title_color=f7a8c4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manushi0304&layout=compact&theme=rose_pine&hide_border=true&title_color=f7a8c4)
+
+<br>
+
+*"confusion is part of programming — and so is building something beautiful from it."* 🌷
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f7a8c4&height=80&section=footer"/>
+
 </div>
+```
+
+Everything is in one clean block. The stats cards now use `manushi0304` (your actual username from the screenshot) with the `rose_pine` theme and pink accents to match the rest of the profile. Just paste this directly into your `README.md` and you're good to go! 🌸
