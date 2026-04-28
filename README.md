@@ -89,6 +89,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f7a8c4&height=80&section=footer"/>
 
 </div>
-```
-
-**What changed:** databases (MySQL, PostgreSQL, MongoDB, Firebase) are merged into the full-stack section as **"full-stack & databases"**, and the new ML tools (PyTorch, HuggingFace, LangChain, NLTK, Matplotlib, SciPy) are folded into the existing **ml / ai** section. No new separate sections added!
