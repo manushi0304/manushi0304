@@ -1,4 +1,4 @@
-v<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f7a8c4&height=120&section=header"/>
 
@@ -19,7 +19,7 @@ v<div align="center">
 
 ---
 
-✦ About Me
+## ✦ about me
 
 - 🌱 diving deep into **CNNs**, **NLP**, and **transformer architectures**
 - 🎨 i turn ideas into sleek, user-friendly interfaces
@@ -29,7 +29,7 @@ v<div align="center">
 
 ---
 
-```✦ tech stack```
+## ✦ tech stack
 
 **languages**
 
@@ -76,13 +76,27 @@ v<div align="center">
 
 ---
 
+## ✦ github stats
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manushi0304&show_icons=true&theme=rose_pine&hide_border=true&icon_color=f7a8c4&title_color=f7a8c4)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=manushi0304&show_icons=true&theme=rose_pine&hide_border=true&icon_color=f7a8c4&title_color=f7a8c4&bg_color=00000000&count_private=true&cache_seconds=86400"
+  alt="Manushi's GitHub Stats"
+  height="170"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manushi0304&layout=compact&theme=rose_pine&hide_border=true&title_color=f7a8c4)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manushi0304&layout=compact&theme=rose_pine&hide_border=true&title_color=f7a8c4&bg_color=00000000&langs_count=8&cache_seconds=86400"
+  alt="Top Languages"
+  height="170"
+/>
 
-<br>
+</div>
+
+---
+
+<div align="center">
 
 *"confusion is part of programming — and so is building something beautiful from it."* 🌷
 
