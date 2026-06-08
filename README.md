@@ -40,61 +40,21 @@
 
 ## ✦ featured projects
 
+🔬 **[Diabetic Retinopathy Detection](https://github.com/manushi0304)**
+CNN pipeline on APTOS-2019 · **97%+ accuracy** · TFLite quantization shrinking model 90.4MB → 14.8MB
+`Python` `TensorFlow` `OpenCV` `Keras`
 
-|
- project 
-|
- description 
-|
- stack 
-|
-|
----
-|
----
-|
----
-|
-|
- 🔬 
-[
-Diabetic Retinopathy Detection
-](
-https://github.com/manushi0304
-)
-|
- CNN pipeline on APTOS-2019 · 
-**
-97%+ accuracy
-**
- · TFLite quantization shrinking model 90.4MB → 14.8MB 
-|
- Python · TensorFlow · OpenCV · Keras 
-|
-|
- 🤖 
-[
-CodeWithME
-](
-https://github.com/manushi0304
-)
-|
- GenAI platform with live LeetCode/Codeforces data · prompt-to-code · mock interviews · PDF reports 
-|
- LangChain · HuggingFace · Web Scraping 
-|
-|
- 🎙️ 
-[
-VoiceNote AI
-](
-https://github.com/manushi0304
-)
-|
- Full-stack voice productivity app · Whisper STT · NLP intent detection · WebSockets · 10+ REST endpoints 
-|
- FastAPI · NLP · PostgreSQL 
-|
+<br>
+
+🤖 **[CodeWithME](https://github.com/manushi0304)**
+GenAI platform with live LeetCode/Codeforces data · prompt-to-code · mock interviews · PDF reports
+`LangChain` `HuggingFace` `Web Scraping`
+
+<br>
+
+🎙️ **[VoiceNote AI](https://github.com/manushi0304)**
+Full-stack voice productivity app · Whisper STT · NLP intent detection · WebSockets · 10+ REST endpoints
+`FastAPI` `NLP` `PostgreSQL`
 
 ---
 
@@ -157,14 +117,6 @@ https://github.com/manushi0304
 **cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-ffd6e7?style=flat-square&logo=amazon-aws&logoColor=c45e8a)
-
----
-
-## ✦ certifications
-
-![IBM](https://img.shields.io/badge/IBM-Deep_Learning_with_TensorFlow-ffd6e7?style=flat-square&logo=ibm&logoColor=c45e8a)
-![Google](https://img.shields.io/badge/Google-Cybersecurity_Certificate-ffd6e7?style=flat-square&logo=google&logoColor=c45e8a)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Intro_to_Generative_AI-ffd6e7?style=flat-square&logo=googlecloud&logoColor=c45e8a)
 
 ---
 
