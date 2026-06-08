@@ -81,17 +81,13 @@
 
 <div align="center">
 
-<img
-  src="https://YOUR-OWN-VERCEL-URL.vercel.app/api?username=manushi0304&show_icons=true&theme=rose_pine&hide_border=true&icon_color=f7a8c4&title_color=f7a8c4&bg_color=00000000&count_private=true"
-  alt="Manushi's GitHub Stats"
-  height="170"
-/>
+<img src="https://streak-stats.demolab.com?user=manushi0304&theme=rose_pine&hide_border=true&ring=f7a8c4&fire=f7a8c4&currStreakLabel=f7a8c4&sideLabels=f7a8c4&dates=a8a8c0&background=00000000" alt="GitHub Streak" />
 
-<img
-  src="https://YOUR-OWN-VERCEL-URL.vercel.app/api/top-langs/?username=manushi0304&layout=compact&theme=rose_pine&hide_border=true&title_color=f7a8c4&bg_color=00000000&langs_count=8"
-  alt="Top Languages"
-  height="170"
-/>
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=manushi0304&style=flat-square&color=f7a8c4&label=profile+views)
+![Followers](https://img.shields.io/github/followers/manushi0304?style=flat-square&color=ffd6e7&labelColor=2d2d3a&label=followers&logo=github&logoColor=f7a8c4)
+![Stars](https://img.shields.io/github/stars/manushi0304?style=flat-square&color=ffd6e7&labelColor=2d2d3a&label=total+stars&logo=github&logoColor=f7a8c4)
 
 </div>
 
@@ -101,10 +97,7 @@
 
 <div align="center">
 
-<img
-  src="https://leetcard.jacoblin.cool/manushicode?theme=dark&font=Nunito&ext=heatmap&border=0&radius=20&width=500"
-  alt="LeetCode Stats"
-/>
+<img src="https://leetcard.jacoblin.cool/manushicode?theme=dark&font=Nunito&ext=heatmap&border=0&radius=20&width=500&color=f7a8c4" alt="LeetCode Stats" />
 
 </div>
 
