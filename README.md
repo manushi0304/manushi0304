@@ -14,6 +14,7 @@
 [![Medium](https://img.shields.io/badge/medium-f7a8c4?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manushibombaywala0304)
 [![Gmail](https://img.shields.io/badge/gmail-f7a8c4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manushibombaywala0304@gmail.com)
 [![Instagram](https://img.shields.io/badge/instagram-f7a8c4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manushi._03/)
+[![LeetCode](https://img.shields.io/badge/leetcode-ffd6e7?style=for-the-badge&logo=leetcode&logoColor=c45e8a)](https://leetcode.com/u/manushicode/)
 
 </div>
 
@@ -81,15 +82,28 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=manushi0304&show_icons=true&theme=rose_pine&hide_border=true&icon_color=f7a8c4&title_color=f7a8c4&bg_color=00000000&count_private=true&cache_seconds=86400"
+  src="https://YOUR-OWN-VERCEL-URL.vercel.app/api?username=manushi0304&show_icons=true&theme=rose_pine&hide_border=true&icon_color=f7a8c4&title_color=f7a8c4&bg_color=00000000&count_private=true"
   alt="Manushi's GitHub Stats"
   height="170"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manushi0304&layout=compact&theme=rose_pine&hide_border=true&title_color=f7a8c4&bg_color=00000000&langs_count=8&cache_seconds=86400"
+  src="https://YOUR-OWN-VERCEL-URL.vercel.app/api/top-langs/?username=manushi0304&layout=compact&theme=rose_pine&hide_border=true&title_color=f7a8c4&bg_color=00000000&langs_count=8"
   alt="Top Languages"
   height="170"
+/>
+
+</div>
+
+---
+
+## ✦ leetcode stats
+
+<div align="center">
+
+<img
+  src="https://leetcard.jacoblin.cool/manushicode?theme=dark&font=Nunito&ext=heatmap&border=0&radius=20&width=500"
+  alt="LeetCode Stats"
 />
 
 </div>
